@@ -5,3 +5,5 @@ These notes are intended to be a high level overview / quick refresher of the co
 
 * Module 1: [Python Basics](Lecture_Notes/Module_01.md)
 * Module 2: [List - A Data Structure](Lecture_Notes/Module_02.md)
+* Module 3: [Functions and Packages](Lecture_Notes/Module_03.md)
+* Module 4: [Numpy](Lecture_Notes/Module_04.md)
