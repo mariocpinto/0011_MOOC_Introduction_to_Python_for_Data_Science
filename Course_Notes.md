@@ -8,3 +8,5 @@ There is also a (seemingly) [equivalent course](https://www.datacamp.com/courses
 * Module 2: [List - A Data Structure](Lecture_Notes/Module_02.md)
 * Module 3: [Functions and Packages](Lecture_Notes/Module_03.md)
 * Module 4: [Numpy](Lecture_Notes/Module_04.md)
+* Module 5: [Plotting with Matplotlib](Lecture_Notes/Module_05.md)
+* Module 6: [Control Flow and Pandas](Lecture_Notes/Module_06.md)
