@@ -1,15 +1,12 @@
 
-## Course in progress...
-
-<!---
-
 ## Course Completion Records
 
 This is my course completion record for the course [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x):
 
-## Assignment Completion:
+![Introduction to Python for Data Science - Assignment Completion](Images/Assignment_Completion.png)
 
-![Introduction to Python for Data Science - Assignment Completion](***)
+<!---
+## Assignment Completion:
 
 ## Final Score:
 
