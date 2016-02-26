@@ -14,6 +14,6 @@ There is also a (seemingly) [equivalent course](https://www.datacamp.com/courses
 #### Concluding Remarks:
 
 This course is quite light in terms of course load and assignments.
-The coverage of topics is at the introductory level and is intended to give a feel for the area.
+The coverage of topics is at the introductory level and is intended to give a flavour of the topic.
 A good mix of videos and exercises ensures that you practice everything you learn.
 This course is good as a first introduction to python for data science.
